@@ -5,7 +5,7 @@ export default function Home() {
         <span className="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center">
           uusitalo.io
         </span>
-        <span className="inline-flex px-2">building in progress</span>
+        <span className="inline-flex px-2">building in progress...</span>
       </div>
     </div>
   );
