@@ -5,7 +5,7 @@ export default function Home() {
         <article className="prose lg:prose-xl dark:prose-invert">
           <h1>Hello There 👋</h1>
           <p>
-            This website (uustalo.io) is under construction. You can come back
+            This website is under construction. You can come back
             in the near future; until then.
           </p>
           <p>
